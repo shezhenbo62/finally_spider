@@ -1,0 +1,12 @@
+[INFO  - 2018-07-11T03:43:52.866Z] GhostDriver - Main - running on port 64948
+[INFO  - 2018-07-11T03:43:53.414Z] Session [a1903220-84bc-11e8-ba5e-2973461b75cd] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-11T03:43:53.415Z] Session [a1903220-84bc-11e8-ba5e-2973461b75cd] - page.customHeaders:  - {}
+[INFO  - 2018-07-11T03:43:53.415Z] Session [a1903220-84bc-11e8-ba5e-2973461b75cd] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-11T03:43:53.415Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a1903220-84bc-11e8-ba5e-2973461b75cd
+[ERROR - 2018-07-11T03:43:55.924Z] Session [a1903220-84bc-11e8-ba5e-2973461b75cd] - page.onError - msg: ReferenceError: Can't find variable: Set
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-11T03:43:55.924Z] Session [a1903220-84bc-11e8-ba5e-2973461b75cd] - page.onError - stack:
+  T (http://www.dpfile.com/app/node-education-web/static/vue.min.b75974310860d9f1199a4343747833ff.js:2)
+
+  phantomjs://platform/console++.js:263 in error

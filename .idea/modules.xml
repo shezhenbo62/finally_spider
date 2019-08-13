@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/D88_Recommend_Algorithm/.idea/D88_Recommend_Algorithm.iml" filepath="$USER_HOME$/Desktop/D88_Recommend_Algorithm/.idea/D88_Recommend_Algorithm.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/haitao_spider/.idea/haitao_spider.iml" filepath="$USER_HOME$/Desktop/haitao_spider/.idea/haitao_spider.iml" />
+      <module fileurl="file://D:/python学习资料/python就业班/spider爬虫/day10/code/login/.idea/login.iml" filepath="D:/python学习资料/python就业班/spider爬虫/day10/code/login/.idea/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spider.iml" filepath="$PROJECT_DIR$/.idea/spider.iml" />
+    </modules>
+  </component>
+</project>

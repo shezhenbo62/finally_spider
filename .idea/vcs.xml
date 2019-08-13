@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/Desktop/D88_Recommend_Algorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deblur/deblur-gan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/geetest_distribute/Geetest3-Crack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ipprox/IPProxyPool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-getting-started" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scrapyd-cluster-on-heroku" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scrapyd-cluster-on-heroku/scrapydweb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weixin_spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weixin_spider/weixin_crawler" vcs="Git" />
+  </component>
+</project>

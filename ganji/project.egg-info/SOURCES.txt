@@ -1,0 +1,14 @@
+setup.py
+ganji/__init__.py
+ganji/items.py
+ganji/middlewares.py
+ganji/pipelines.py
+ganji/settings.py
+ganji/spiders/__init__.py
+ganji/spiders/gj.py
+ganji/spiders/tianyancha.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
